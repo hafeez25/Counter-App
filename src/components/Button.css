@@ -1,0 +1,18 @@
+.button-container{
+    margin-top: 20px;
+}
+
+.btn{
+    padding: 10px 30px;
+    margin: 10px;
+    box-shadow: 4px 4px 8px rgb(221, 219, 219);
+    border-radius: 10px;
+    border: 1px solid rgb(219, 218, 214);
+    background-color: white;
+    font-size: 4rem;
+    font-weight: bolder;
+}
+
+.btn:active{
+    box-shadow: none;
+}
