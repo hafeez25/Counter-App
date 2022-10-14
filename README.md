@@ -8,6 +8,8 @@ Counter-App is a very basic react app. The whole purpose of making this project 
 
 ## Preview
 
+![counter](https://user-images.githubusercontent.com/83756518/195832643-610e387b-b9d7-47f7-89ee-6ac7af10280d.png)
+
 ## Run Counter-App App
 
 ```bash
