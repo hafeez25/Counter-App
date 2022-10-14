@@ -1,6 +1,6 @@
 .display{
-    width: 200px;
-    height: 200px;
+    max-width: 200px;
+    min-height: 200px;
     font-size: 10rem;
     font-weight: bolder;
     margin:  auto;

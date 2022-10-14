@@ -8,10 +8,14 @@ import "./components/Button.css"
 let count = 0;
 function App() {
 
+  const handleData = (data)=>{
+    console.log(data)
+  }
+
   return (
     
     <div className="App">
-      <Display count = {count}/>
+      <Display  onGetData = {handleData} count = {count}/>
     
     </div>
   );
